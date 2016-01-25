@@ -1,7 +1,7 @@
 '''
 Created on Jan 20, 2016
 
-@version: 0.2
+@version: 0.2.1
 @modification: 01/25/16
 @author: jguerra
 @return: python script that reads the file and computes 
