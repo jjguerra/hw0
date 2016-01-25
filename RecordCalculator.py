@@ -1,6 +1,7 @@
 '''
 Created on Jan 20, 2016
 
+@modification: 01/25/16
 @author: jguerra
 @return: python script that reads the file and computes 
 the number of records (in this file, each line is a record) 
